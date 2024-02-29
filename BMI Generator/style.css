@@ -1,0 +1,41 @@
+body{
+  background-color: black;
+  color: rgb(255, 165, 0);
+  font-size: 20px;
+}
+
+.container{
+  text-align: center;
+}
+
+form{
+  margin-top: 20px;
+}
+
+#subbtn{
+  margin-top: 20px;
+  background-color: rgb(0, 238, 255);
+  font-size: 22px;
+  color: black;
+  font-weight: bold;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  padding: 5px;
+}
+
+#results{
+  margin-top: 25px;
+}
+
+
+#weightguide{
+  margin-top: 30px;
+  color: green;
+}
+
+#final-result{
+  margin-top: 30px;
+  color: white;
+  text-decoration: underline;
+}
